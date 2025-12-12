@@ -87,7 +87,9 @@ See [`pubspec.yaml`](pubspec.yaml) for full list and versions.
 <!-- Replace with your own screenshots if needed -->
 | Light mode                | Dark mode                  |
 |---------------------------|----------------------------|
-| ![light mode](doc/light.png) | ![dark mode](doc/dark.png) |
+| ![light mode](<img width="368" height="822" alt="image" src="https://github.com/user-attachments/assets/449994ef-b561-4b3f-86a8-bd8a09dc63e0" />
+) | ![dark mode](<img width="366" height="821" alt="image" src="https://github.com/user-attachments/assets/04096749-39d9-4cf7-ac87-c256058151d9" />
+) |
 
 ---
 
