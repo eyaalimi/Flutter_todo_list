@@ -3,7 +3,8 @@
 
 A simple, beautiful, and persistent ToDo list Flutter application that supports dark/light theme switching and data storage with SQLite & Hive.
 
-![screenshot](doc/sample_screenshot.png) <!-- You can add/replace with your app screenshot path if needed -->
+<img width="366" height="821" alt="image" src="https://github.com/user-attachments/assets/d917aa7e-39f2-4c08-92b0-6e53700bdf20" />
+ <!-- You can add/replace with your app screenshot path if needed -->
 
 ---
 
